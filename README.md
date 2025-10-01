@@ -1,13 +1,12 @@
-# Can AI Ever Truly Understand Culture?
-This workshop, questioning whether current LLMs simulate cultural knowledge or actually reason about it, will be held at Trier University. It is part of the CURIA-GR project, enabled by the University of the Greater Region.
+# Language Models Across Borders: Whose Culture Do They Represent?
+This workshop, investigating cultural bias and dominance in current LLMs, will be held at Trier University. It is part of the CURIA-GR project, enabled by the University of the Greater Region.
 
-# Description
-This workshop explores the question of whether artificial intelligence can truly understand culture, or whether its cultural awareness is merely a (statistical) illusion. Against the backdrop of the multilingual Greater Region, it brings together researchers from computational linguistics, computer science, humanities subjects, and the social sciences to debate how cultural reasoning can be measured, tested, and ultimately improved in large language models. Central questions include whether LLMs can distinguish between related but distinct cultures, how to define and evaluate “cultural sensitivity” in a clearly defined way, and whether AI systems should adapt to local contexts or remain culturally neutral.
+## Description
+This workshop explores the cultural assumptions embedded in large language models and asks whose voices and identities they ultimately represent. While AI systems are often presented as globally applicable, their training data and design choices are shaped by particular linguistic and cultural contexts. The multilingual Greater Region of Luxembourg, with its overlapping traditions across Luxembourg, Germany, France, and Belgium, provides an ideal setting to examine whether AI models can recognize differences between closely related cultures or whether they tend to reproduce dominant perspectives at the expense of local or minority ones.
 
-The program will feature one or two keynote talks by leading researchers, thematic discussions, and a poster session for which abstracts will be invited. The aim is to create a space for critical reflection and collaborative exchange on the opportunities and risks that arise when AI systems encounter cultural complexity in multilingual, border regions such as Luxembourg and its neighbours.
+Participants will discuss questions of evaluation, fairness, and responsibility: How can cultural sensitivity in AI be meaningfully assessed? Should language models adapt to local contexts or remain culturally “neutral”? And what challenges emerge when AI misrepresents or overlooks cultural distinctions in border regions where identity is highly contextual? The workshop will feature one or two keynote talks, structured discussions, and a poster session for which abstracts will be invited. By focusing on the cross-border dynamics of the Greater Region, the event aims to create a space for collective reflection on how cultural reasoning in AI can be better understood, tested, and improved.
 
-
-# Abstract Submission
+## Abstract Submission
 We invite the submission of abstracts that broadly deal with the theme and questions (see below) of the workshop. Accepted abstracts will be presented at a poster session during the workshop. <br>
 
 - To what extent can LLMs distinguish between related but distinct cultures (e.g. Luxembourgish vs. German vs. French)?
@@ -16,18 +15,17 @@ We invite the submission of abstracts that broadly deal with the theme and quest
 - What risks emerge when AI fails to respect local cultural norms in multilingual, border regions like the Greater Region?
 
 
-# Important Dates
+## Important Dates
 Workshop: 17/11/25 10:00 - 17:00 <br>
 Registration: <br>
 Abstracts due: 31/10/25 <br>
 Poster notification: 05/11/25 <br>
 
-# Location
+## Location
 
 Room K101 (old chapel) <br>
 Campus II <br>
 Trier University
 
-
-# Registration
+## Registration
 Anyone interested in participating is invited to register (free) at the link below.
