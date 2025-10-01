@@ -1,4 +1,4 @@
-# Language Models Across Borders: Whose Culture Do They Represent?
+# AI and Language Models Across Borders: Whose Culture Do They Represent?
 This workshop, investigating cultural bias and dominance in current LLMs, will be held at Trier University. It is part of the CURIA-GR project, enabled by the University of the Greater Region.
 
 ## Description
