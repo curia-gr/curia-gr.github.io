@@ -31,6 +31,7 @@ Campus II <br>
 Trier University
 
 ## Registration
-Anyone interested in participating is invited to register (free) at the link below.
+Anyone interested in participating is invited to register (free) at the link below. <br>
 
+[https://forms.gle/RHC8iREGQrKQZ5Xp8](https://forms.gle/RHC8iREGQrKQZ5Xp8)
 
