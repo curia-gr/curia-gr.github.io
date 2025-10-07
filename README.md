@@ -8,6 +8,10 @@ While AI systems are often presented as globally applicable, their training data
 
 Participants will discuss questions of evaluation, fairness, and responsibility: How can cultural sensitivity in AI be meaningfully assessed? Should language models adapt to local contexts or remain culturally “neutral”? And what challenges emerge when AI misrepresents or overlooks cultural distinctions in border regions where identity is highly contextual? The workshop will feature one or two keynote talks, structured discussions, and a poster session for which abstracts will be invited. By focusing on the cross-border dynamics of the Greater Region, the event aims to create a space for collective reflection on how cultural reasoning in AI can be better understood, tested, and improved.
 
+## Organisers
+Dr. Alistair Plum (Université du Luxembourg)
+Prof. Dr. Achim Rettinger (Universität Trier)
+
 ## Abstract Submission
 We invite the submission of abstracts that broadly deal with the theme and questions (see below) of the workshop. Accepted abstracts will be presented at a poster session during the workshop. <br>
 
@@ -17,21 +21,29 @@ We invite the submission of abstracts that broadly deal with the theme and quest
 - What risks emerge when AI fails to respect local cultural norms in multilingual, border regions like the Greater Region?
 - How can LLMs be trained to improve their cultural reasoning skills?
 
+-> Send abstracts (300 words) to alistair.plum@uni.lu
 
-## Important Dates
+
+## Important Information
+### Dates
 Workshop: 17/11/25 10:00 - 17:00 <br>
-Registration: <br>
+Registration Deadline: <br>
 Abstracts due: 31/10/25 <br>
 Poster notification: 05/11/25 <br>
 
-## Location
-
+### Location
 Room K101 (old chapel) <br>
 Campus II <br>
 Trier University
 
-## Registration
+### Registration
 Anyone interested in participating is invited to register (free) at the link below. <br>
 
 [https://forms.gle/RHC8iREGQrKQZ5Xp8](https://forms.gle/RHC8iREGQrKQZ5Xp8)
 
+### Contact
+alistair.plum@uni.lu
+
+
+## Acknowledgements
+We thank the University of the Greater Region for supporting this workshop as part of the Guest Professorship project "Cultural Reasoning in AI: Examining Large Lanaguage Models in the Context of the Greater Region"
