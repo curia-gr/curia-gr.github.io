@@ -9,7 +9,7 @@ While AI systems are often presented as globally applicable, their training data
 Participants will discuss questions of evaluation, fairness, and responsibility: How can cultural sensitivity in AI be meaningfully assessed? Should language models adapt to local contexts or remain culturally “neutral”? And what challenges emerge when AI misrepresents or overlooks cultural distinctions in border regions where identity is highly contextual? The workshop will feature one or two keynote talks, structured discussions, and a poster session for which abstracts will be invited. By focusing on the cross-border dynamics of the Greater Region, the event aims to create a space for collective reflection on how cultural reasoning in AI can be better understood, tested, and improved.
 
 ## Organisers
-Dr. Alistair Plum (Université du Luxembourg)
+Dr. Alistair Plum (Université du Luxembourg) <br>
 Prof. Dr. Achim Rettinger (Universität Trier)
 
 ## Abstract Submission
@@ -22,6 +22,8 @@ We invite the submission of abstracts that broadly deal with the theme and quest
 - How can LLMs be trained to improve their cultural reasoning skills?
 
 -> Send abstracts (300 words) to alistair.plum@uni.lu
+
+Please note that abstract submission is *optional*, and that abstracts will not be published as part of the workshop. <br>
 
 
 ## Important Information
@@ -46,4 +48,4 @@ alistair.plum@uni.lu
 
 
 ## Acknowledgements
-We thank the University of the Greater Region for supporting this workshop as part of the Guest Professorship project "Cultural Reasoning in AI: Examining Large Lanaguage Models in the Context of the Greater Region"
+We thank the University of the Greater Region for supporting this workshop as part of the Guest Professorship project "Cultural Reasoning in AI: Examining Large Lanaguage Models in the Context of the Greater Region".
