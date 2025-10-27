@@ -60,7 +60,7 @@ alistair.plum@uni.lu
 | **11:05 – 11:35** | Coffee Break | ☕ Networking and informal exchange. |
 | **11:35 – 12:30** | Session I: Framing the Discussion | Thematic group discussions on what “cultural reasoning” means in AI and what participants expect from the day. |
 | **12:30 – 13:30** | Lunch Break | 🍽️  |
-| **13:30 – 14:00** | Keynote II (20+10) | *Katharina Zügel - The right to reliable information in culturally diverse contexts  in the age of AI“* — short keynote + discussion. |
+| **13:30 – 14:00** | Keynote II  | *Katharina Zügel - The right to reliable information in culturally diverse contexts  in the age of AI“* — short keynote + discussion. |
 | **14:00 – 15:00** | Poster Session | Interactive poster session with submitted abstracts. |
 | **15:00 – 15:30** | Coffee Break | ☕  |
 | **15:30 – 16:30** | Session II: Connecting Themes | Small-group exchange linking poster topics to workshop questions; mapping shared challenges and research directions. |
