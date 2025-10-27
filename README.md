@@ -51,10 +51,7 @@ alistair.plum@uni.lu
 
 ---
 
-## Timeplan
-
-
----
+## Timeplan (tentative)
 
 | **Time** | **Session** | **Description** |
 |-----------|--------------|-----------------|
