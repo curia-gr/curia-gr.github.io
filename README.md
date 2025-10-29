@@ -56,11 +56,11 @@ alistair.plum@uni.lu
 | **Time** | **Session** | **Description** |
 |-----------|--------------|-----------------|
 | **10:00&nbsp;–&nbsp;10:15** | Welcome & Introduction | Opening remarks and overview of aims. |
-| **10:15&nbsp;–&nbsp;11:05** | Keynote I | *Christoph Purschke – TBD* — keynote + Q&A. |
+| **10:15&nbsp;–&nbsp;11:05** | Keynote I | *[Christoph Purschke](https://www.uni.lu/fhse-en/people/christoph-purschke/) – Cultural Language Processing. Human and artifactual perspectives* — keynote + Q&A. |
 | **11:05&nbsp;–&nbsp;11:35** | Coffee Break | ☕  |
 | **11:35&nbsp;–&nbsp;12:30** | Session I: Framing the Discussion | Thematic group discussions on what “cultural reasoning” means in AI and what participants expect from the day. |
 | **12:30&nbsp;–&nbsp;13:30** | Lunch Break | 🍽️  |
-| **13:30&nbsp;–&nbsp;14:00** | Keynote II  | *Katharina Zügel – The right to reliable information in culturally diverse contexts in the age of AI* — short keynote + discussion. |
+| **13:30&nbsp;–&nbsp;14:00** | Keynote II (Online) | *[Katharina Zügel](https://informationdemocracy.org/) – The right to reliable information in culturally diverse contexts in the age of AI* — short keynote + discussion. |
 | **14:00&nbsp;–&nbsp;15:00** | Poster Session | Interactive poster session with submitted abstracts. |
 | **15:00&nbsp;–&nbsp;15:30** | Coffee Break | ☕  |
 | **15:30&nbsp;–&nbsp;16:30** | Session II: Connecting Themes | Small-group exchange linking poster topics to workshop questions; mapping shared challenges and research directions. |
