@@ -11,6 +11,7 @@ Participants will discuss questions of evaluation, fairness, and responsibility:
 ## Organisers
 Dr. Alistair Plum (Université du Luxembourg) <br>
 Prof. Dr. Achim Rettinger (Universität Trier)
+<br>
 
 ---
 
@@ -32,7 +33,7 @@ Please note that abstract submission is *optional*, and that abstracts will not 
 ## Important Information
 ### Dates
 Workshop: 17/11/25 10:00 - 17:00 <br>
-Registration Deadline: <br>
+Registration Deadline: 13/11/25 <br>
 Abstracts due: 31/10/25 <br>
 Poster notification: 05/11/25 <br>
 
@@ -72,3 +73,5 @@ alistair.plum@uni.lu
 
 ## Acknowledgements
 We thank the University of the Greater Region for supporting this workshop as part of the Guest Professorship project "Cultural Reasoning in AI: Examining Large Lanaguage Models in the Context of the Greater Region".
+
+![UniGR](UniGR_Logo_4c.gif)
