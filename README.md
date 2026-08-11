@@ -29,7 +29,6 @@ This year’s workshop utilizes a concrete pipeline to move past abstract claims
 ## Organisers
 *   **Dr. Alistair Plum** (Université du Luxembourg)
 *   **Dr. Simon Münker** (Universität Trier)
-*   **Nils Schwager?** (Universität Trier)
 *   **Prof. Dr. Achim Rettinger** (Universität Trier)
 
 *In collaboration with the **EVAS Research Cooperative** and the **CLUG Project Team***
@@ -47,15 +46,14 @@ We invite submissions that align with our validation focus. Accepted contributio
 *   Methodological reflections on inter-annotator agreement and ecological validity.
 
 **Submission Guidelines:**
-*   Please send a **300-word abstract** to [alistair.plum@uni.lu](mailto:alistair.plum@uni.lu).
-*   Include your name and affiliation.
+*   TBD
 
 ---
 
 ## Important Information
 
 ### Dates
-*   **Workshop:** TBD
+*   **Workshop:** 18th November 2026 (tentative)
 *   **Registration Deadline:** TBD
 *   **Abstracts Due:** TBD
 
