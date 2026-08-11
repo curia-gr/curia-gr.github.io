@@ -1,77 +1,74 @@
-# 1st Workshop on Artificial Cultural Reasoning
-This workshop, investigates whether current AI systems are capable of cultural reasoning, like handling conflicting preferences due to varying cultural backgrounds of users. Are such capabilities required and (how) can they be machine-learned?
+# The CLUG Project 
+<!-- <img src="logo.png" width="200"> -->
 
-It will be held at Trier University and is part of the CURIA-GR project, awarded by the University of the Greater Region as part of the Guest Professorship scheme.
+The **CLUG Project** (Cultural Language Understanding Evaluation for the Greater Region) develops multilingual, pluricultural benchmarks to ensure that emerging AI technologies are sensitive to the specific linguistic and cultural contexts of the SaarLorLux region. 
 
-## AI and Language Models Across Borders: Whose Culture Do They Represent?
-While AI systems are often presented as globally applicable, their training data and design choices are shaped by particular linguistic and cultural contexts. The multilingual Greater Region of SaarLorLux, with its overlapping traditions and language across Luxembourg, Germany, France, and Belgium, provides an ideal setting to examine whether AI models can recognise differences between closely related cultures or whether they tend to reproduce dominant perspectives at the expense of local or minority ones.
+By enriching the [ltzGLUE](https://github.com/plumaj/ltzGLUE) benchmark with cultural annotations—including idioms, historical facts, and cross-border entities—and providing translations across Luxembourgish, French, German, and English, CLUG provides the essential tools for public administrations to implement inclusive, context-aware AI solutions like chatbots and document classifiers.
 
-Participants will discuss questions of evaluation, fairness, and responsibility: How can cultural sensitivity in AI be meaningfully assessed? Should language models adapt to local contexts or remain culturally “neutral”? And what challenges emerge when AI misrepresents or overlooks cultural distinctions in border regions where identity is highly contextual? The workshop will feature one or two keynote talks, structured discussions, and a poster session for which abstracts will be invited. By focusing on the cross-border dynamics of the Greater Region, the event aims to create a space for collective reflection on how cultural reasoning in AI can be better understood, tested, and improved.
+With the support of the **Tech-in-GOV** initiative under from the **Luxembourg Ministry for Digitalisation**, our mission is to prevent the "flattening" of cultural nuance in machine learning models and to promote robust, ecologically valid language technologies for the Greater Region.
+
+---
+
+# 2nd Workshop on Artificial Cultural Reasoning: Empirical Validation & Cross-Border Language
+
+**Theme:** *Moving beyond cultural awareness to testable, ecologically valid AI behavior.*
+
+This workshop builds on our previous conceptual discussions by shifting toward **empirical validation**. In collaboration with the EVAS Research Cooperative and the CLUG Project Team, we will stress-test whether current AI systems can genuinely handle cross-border cultural reasoning—or whether they merely reproduce dominant perspectives under the guise of fluency.
+
+## The Validation Pipeline
+This year’s workshop utilizes a concrete pipeline to move past abstract claims through three core pillars:
+
+1.  **CLUG’s 4-Dimensional Rubric:** We use a standardized evaluation metric covering:
+    *   **Cultural Reference:** (Institutional, historical, and geographical context)
+    *   **Directionality:** (Inward vs. outward framing)
+    *   **Perspective & Anchor:** (DE/FR/LU vantage points)
+    *   **Cultural Register:** (Local discourse conventions, formality, and hedging)
+2.  **Translation Scoring:** Measuring the degree to which cultural nuance is lost or "flattened" during cross-lingual generation.
+3.  **EVAS’s Critical Lens:** Testing whether surface-level fluency in LLMs masks a failure to respect local cultural norms in border regions.
 
 ## Organisers
-Dr. Alistair Plum (Université du Luxembourg) <br>
-Prof. Dr. Achim Rettinger (Universität Trier)
-<br>
+*   **Dr. Alistair Plum** (Université du Luxembourg)
+*   **Dr. Simon Münker** (Universität Trier)
+*   **Nils Schwager?** (Universität Trier)
+*   **Prof. Dr. Achim Rettinger** (Universität Trier)
+
+*In collaboration with the **EVAS Research Cooperative** and the **CLUG Project Team***
 
 ---
 
 ## Abstract Submission
-We invite the submission of abstracts that broadly deal with the theme and questions (see below) of the workshop. Accepted abstracts will be presented at a poster session during the workshop. <br>
+We invite submissions that align with our validation focus. Accepted contributions will be presented during the poster or session blocks. 
 
-- To what extent can LLMs distinguish between related but distinct cultures (e.g. Luxembourgish vs. German vs. French)?
-- How do we measure “cultural sensitivity” in a way that is both rigorous and fair?
-- Should AI be culturally adaptive (changing responses based on user’s context), or culturally neutral?
-- What risks emerge when AI fails to respect local cultural norms in multilingual, border regions like the Greater Region?
-- How can LLMs be trained to improve their cultural reasoning skills?
+**Suggested Topics:**
+*   Applying CLUG’s 4 dimensions to LLM evaluation.
+*   Cross-lingual preservation of cultural register or pragmatic norms.
+*   Critical analysis of “cultural neutrality” vs. adaptive AI in border regions.
+*   Open datasets, fine-tuning strategies, or prompt-engineering for cultural reasoning.
+*   Methodological reflections on inter-annotator agreement and ecological validity.
 
--> Send abstracts (300 words) to alistair.plum@uni.lu
-
-Please note that abstract submission is *optional*, and that abstracts will not be published as part of the workshop. <br>
+**Submission Guidelines:**
+*   Please send a **300-word abstract** to [alistair.plum@uni.lu](mailto:alistair.plum@uni.lu).
+*   Include your name and affiliation.
 
 ---
 
 ## Important Information
+
 ### Dates
-Workshop: 17/11/25 10:00 - 17:00 <br>
-Registration Deadline: 13/11/25 <br>
-Abstracts due: 31/10/25 <br>
-Poster notification: 05/11/25 <br>
+*   **Workshop:** TBD
+*   **Registration Deadline:** TBD
+*   **Abstracts Due:** TBD
 
 ### Location
-Room K101 (old chapel) <br>
-Campus II <br>
-Trier University
+**Black Box Maison du Sciences Humaines**  
+Université du Luxembourg
 
 ### Registration
-Anyone interested in participating is invited to register (free) at the link below. <br>
-
-[https://forms.gle/RHC8iREGQrKQZ5Xp8](https://forms.gle/RHC8iREGQrKQZ5Xp8)
+Attendance is **free**. Please register via the link below:  
+[TBD](https://link.com)
 
 ### Contact
-alistair.plum@uni.lu
+[alistair.plum@uni.lu](mailto:alistair.plum@uni.lu)
 
 ---
 
-## Timeplan (tentative)
-
-| **Time** | **Session** | **Description** |
-|-----------|--------------|-----------------|
-| **10:00&nbsp;–&nbsp;10:15** | Welcome & Introduction | Opening remarks and overview of aims. |
-| **10:15&nbsp;–&nbsp;11:05** | Keynote I | *[Christoph Purschke](https://www.uni.lu/fhse-en/people/christoph-purschke/) – Cultural Language Processing. Human and artifactual perspectives* — keynote + Q&A. |
-| **11:05&nbsp;–&nbsp;11:35** | Coffee Break | ☕  |
-| **11:35&nbsp;–&nbsp;12:30** | Session I: Framing the Discussion | Thematic group discussions on what “cultural reasoning” means in AI and what participants expect from the day. |
-| **12:30&nbsp;–&nbsp;13:30** | Lunch Break | 🍽️  |
-| **13:30&nbsp;–&nbsp;14:00** | Keynote II (Online) | *[Katharina Zügel](https://informationdemocracy.org/) – The right to reliable information in culturally diverse contexts in the age of AI* — short keynote + discussion. |
-| **14:00&nbsp;–&nbsp;15:00** | Poster Session | Interactive poster session with submitted abstracts. |
-| **15:00&nbsp;–&nbsp;15:30** | Coffee Break | ☕  |
-| **15:30&nbsp;–&nbsp;16:30** | Session II: Connecting Themes | Small-group exchange linking poster topics to workshop questions; mapping shared challenges and research directions. |
-| **16:30&nbsp;–&nbsp;16:55** | Roundtable Discussion | Joint summary and identification of future collaborations. |
-| **16:55&nbsp;–&nbsp;17:00** | Closing Remarks | Final reflections and thanks. |
-
----
-
-
-## Acknowledgements
-We thank the University of the Greater Region for supporting this workshop as part of the Guest Professorship project "Cultural Reasoning in AI: Examining Large Lanaguage Models in the Context of the Greater Region".
-
-![UniGR](UniGR_Logo_4c.gif)
