@@ -53,7 +53,7 @@ Organisers:
 - Dr. Simon Münker (Trier University)
 - Prof. Dr. Achim Rettinger (Trier University)
 
-Project Links:
+Project Links: </br>
 CLUG: https://curia-gr.github.io </br>
 EVAS: https://evas-research.github.io
 
