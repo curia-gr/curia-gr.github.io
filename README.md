@@ -54,7 +54,7 @@ Organisers:
 - Prof. Dr. Achim Rettinger (Trier University)
 
 Project Links:
-CLUG: https://curia-gr.github.io
+CLUG: https://curia-gr.github.io </br>
 EVAS: https://evas-research.github.io
 
 With the support of the Luxembourg Ministry for Digitalisation, within the framework of the Tech-in-GOV initiative.
