@@ -36,12 +36,12 @@ This workshop serves as the launchpad for a dedicated Special Issue focused on e
 ### Key Dates & Registration/Submission Information
 **Submit abstracts/papers to**: [link to follow (enquiries: alistair.plum@uni.lu)] </br>
 **Deadline:** 13 October 2026 (AOE) </br>
-_Format: We accept abstracs, as well as papers up to 8 pages, following the ACL formatting guidelines. Submission will be via openreview.net_
+_Format: We accept abstracs, as well as papers up to 8 pages, following the ACL formatting guidelines. Submission will be via openreview.net_ </br>
 **Acceptance Notification:** 27 October 2026 (AOE) </br>
-_Note: First acceptance grants presentation rights at the workshop. Final publication decisions for the Special Issue will be made post-workshop in consultation with the guest editors and journal publishers._
+_Note: First acceptance grants presentation rights at the workshop. Final publication decisions for the Special Issue will be made post-workshop in consultation with the guest editors and journal publishers._ 
 
 **Workshop:** 18 November 2026, 10:00–17:00 </br>
-**Please Sign-up here**: [https://forms.gle/VjcYnifYVUeZRqRA9](https://forms.gle/VjcYnifYVUeZRqRA9)
+**Please Sign-up here**: [https://forms.gle/VjcYnifYVUeZRqRA9](https://forms.gle/VjcYnifYVUeZRqRA9) </br>
 _Note: **Participation is** **free** and not contingent on handing in an abstract or paper, but **prior registration is mandatory** in all cases._
 
 ### Location
